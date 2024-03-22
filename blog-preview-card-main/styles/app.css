@@ -1,0 +1,102 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+/* flex-direction: column; */
+background-color: #f5d04e;
+height: 700px;
+}
+
+.figtree-font {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500,800;
+    font-style: normal;
+}
+
+.card{
+  padding: auto;
+  height: fit-content;
+  width: fit-content;
+  justify-content: center; 
+  background-color: white;
+  border-radius: 5%;
+  /* padding: 20px; */
+  border: 1px solid;
+  box-shadow: 10px 10px black;
+  border-color: black;
+  font-family: "Figtree", sans-serif;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    padding: 10px;
+    /* position: fixed; */
+}
+.card1{
+    padding: 10px;
+}
+.cardimg{
+    border-radius: 20px;
+    /* height: 50%; */
+    width: 98%;
+}
+.btn{
+    background-color: #f5d04c;
+    padding: 5px 7px;
+    border-radius: 5%;
+    margin-top: 10px;
+    width: 19%;
+    font-weight: bolder;
+}
+.date{
+    margin-top: -5px;
+    font-size: small;
+    font-weight: 600;
+}
+h1{
+    font-size: 20px;
+    font-weight: 800;
+}
+h1:hover{
+    color: #efce54;
+}
+p{
+    font-weight: 500;
+    font-size: 17px;
+    color: #878787;
+}
+.pfp{
+    height:40px;
+    width: 40px;
+    padding-top: 10px;
+}
+.guy{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.guy > span{
+padding-top: 10px;
+padding-left: 10px;
+font-weight: 800;
+font-size: 13px;
+}
+.centered-footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    /* Optional: Set width to center horizontally */
+    width: 200px; /* Adjust width as needed */   
+}
+
+.masthead{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+}
