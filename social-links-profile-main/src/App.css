@@ -1,0 +1,86 @@
+body{
+  background-color: #141414;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Inter Regular", sans-serif;
+  color: whitesmoke;
+}
+
+.card{
+  margin: 4rem;
+  height: fit-content;
+  width: 23rem;
+  background-color: #1f1f1f;
+  border-radius: 2%;
+  padding: 20px;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-direction: column;
+  margin: 25px;
+}
+
+
+.card1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap:9px;
+  order: 0;
+}
+
+.card2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  order: 1;
+  gap: 15px;
+  padding-top: 10px;
+}
+
+img{
+  height: 90px;
+  width: 90px;
+  margin-bottom:2px;
+  border-radius: 50%;
+}
+
+.box{
+  background-color: #333333;
+  padding-top: 11%;
+  padding-left: 75%;
+  padding-right: 75%;
+  padding-bottom: 11%;
+  width: 100%;
+  text-align: center;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.box:hover{
+  background-color: #c4f82a;
+  color: black;
+}
+
+.name{
+  font-size: 24px;
+  font-weight: 400;
+}
+.location{
+  color: #c4f82a;
+  font-weight: 700;
+  font-size: 13px;
+}
+.occ{
+  font-size: 15px;
+  margin-top: 23px;
+  font-weight: 300;
+}
