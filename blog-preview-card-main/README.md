@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://github.com/sahiwl/Frontend-Mentor-Solutions/tree/main/blog-preview-card-main)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/static-webpage-using-semantic-html-css-OAHd0cGh8k)
 - Live Site URL: [click here](https://blog-preview-card-frontend.vercel.app/)
 
 ## My process

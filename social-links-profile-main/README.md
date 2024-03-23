@@ -25,7 +25,7 @@ Users should be able to:
 ![alt text](image.png)
 
 ### Links
-- Solution URL: [click here](https://github.com/sahiwl/Frontend-Mentor-Solutions/tree/main/social-links-profile-main)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/social-links-profile-card-using-react-wRorf7WjEw)
 - Live Site URL: [click here](https://social-links-profile-frontend.vercel.app/)
 
 ## My process
